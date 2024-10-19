@@ -7,7 +7,7 @@ Setup
 1. Add OpenAI API Key to the file like the following
   OPENAI_API_KEY = ""
 
-Volume Up Button: Snaps picture
+Volume Up Button: Snaps picture  
 Volume Down Button: Cycle zoom
 
 
