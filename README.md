@@ -1,4 +1,4 @@
-Mobile app to uses a the devices camera to answer triva questions from TV. This app requires OpenAPI API Key
+Mobile app uses devices camera to answer trivia questions from TV. This app requires OpenAPI API Key
 
 Setup
 ---------------------
